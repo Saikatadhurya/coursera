@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Saikatadhurya/coursera#readme",
   "devDependencies": {
     "lite-server": "^2.5.4",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
